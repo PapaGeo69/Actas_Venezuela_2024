@@ -1,11 +1,12 @@
 # Actas Validation Report
 
-Total records processed: 25871
-Total records validated and saved: 23556
-Total duplicate records found: 20
-Total incomplete records found: 0
+- Total records processed: 25871
+- Total records validated and saved: 23556
+- Total duplicate records found: 20
+- Total incomplete records found: 0
 
 ## Explanation of Folders
+
 - `validated_actas`: Contains all actas that have been successfully validated.
 - `not_processed_damaged_actas`: Contains actas images that have been recorded in the error_log.json file.
 - `duplicated_actas`: Contains all the duplicated images that were not counted.
@@ -14,7 +15,19 @@ Total incomplete records found: 0
 
 Total actas being counted: 23556
 
-### Votes per Candidate per Party (sorted):
+## Votes per Candidate (sorted):
+- EDMUNDO GONZALEZ: 6846358
+- NICOLAS MADURO: 3106523
+- LUIS MARTINEZ: 80878
+- ANTONIO ECARRI: 47448
+- BENJAMIN RUSSO: 35669
+- ENRIQUE MARQUEZ: 24518
+- JOSE BRITO: 20621
+- JAVIER BERTUCCI: 19062
+- CLAUDIO FERMIN: 11721
+- DANIEL CEBALLOS: 9875
+
+## Votes per Candidate per Party (sorted):
 - EDMUNDO GONZALEZ (MUD): 6179766
 - NICOLAS MADURO (PSUV): 2354763
 - EDMUNDO GONZALEZ (MPV): 361533
@@ -54,14 +67,3 @@ Total actas being counted: 23556
 - JOSE BRITO (UVV): 2861
 - LUIS MARTINEZ (BR): 2449
 
-### Votes per Candidate (sorted):
-- EDMUNDO GONZALEZ: 6846358
-- NICOLAS MADURO: 3106523
-- LUIS MARTINEZ: 80878
-- ANTONIO ECARRI: 47448
-- BENJAMIN RUSSO: 35669
-- ENRIQUE MARQUEZ: 24518
-- JOSE BRITO: 20621
-- JAVIER BERTUCCI: 19062
-- CLAUDIO FERMIN: 11721
-- DANIEL CEBALLOS: 9875
